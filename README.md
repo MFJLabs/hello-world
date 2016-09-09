@@ -1,2 +1,2 @@
 # hello-world
-new repo
+new repo to try out Git
